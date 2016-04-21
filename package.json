@@ -1,0 +1,11 @@
+{
+  "name": "rentalstats",
+  "version": "1.0.0",
+  "description": "Mine area rental data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Scott Gale",
+  "license": "ISC"
+}
